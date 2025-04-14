@@ -1,0 +1,74 @@
+[
+    {
+      "model": "news.FavoriteNews",
+      "pk": 1,
+      "fields": {
+          "date_of_saving": "2023-01-12 14:21:30+02:00",
+          "news": 1,
+          "reader": 4
+        }
+    },
+   {
+      "model": "news.FavoriteNews",
+      "pk": 2,
+      "fields": {
+          "date_of_saving": "2023-05-19 16:04:35+02:00",
+          "news": 4,
+          "reader": 4
+        }
+    },
+   {
+      "model": "news.FavoriteNews",
+      "pk": 3,
+      "fields": {
+          "date_of_saving": "2023-06-10 17:25:57+02:00",
+          "news": 6,
+          "reader": 4
+        }
+    },
+   {
+      "model": "news.FavoriteNews",
+      "pk": 4,
+      "fields": {
+          "date_of_saving": "2023-06-26 16:40:02+02:00",
+          "news": 8,
+          "reader": 5
+        }
+    },
+   {
+      "model": "news.FavoriteNews",
+      "pk": 5,
+      "fields": {
+          "date_of_saving": "2023-10-12 15:17:46+02:00",
+          "news": 10,
+          "reader": 5
+        }
+    },
+   {
+      "model": "news.FavoriteNews",
+      "pk": 6,
+      "fields": {
+          "date_of_saving": "2024-03-29 13:42:23+02:00",
+          "news": 15,
+          "reader": 6
+        }
+    },
+   {
+      "model": "news.FavoriteNews",
+      "pk": 7,
+      "fields": {
+          "date_of_saving": "2024-03-27 13:42:23+02:00",
+          "news": 17,
+          "reader": 6
+        }
+    },
+   {
+      "model": "news.FavoriteNews",
+      "pk": 8,
+      "fields": {
+          "date_of_saving": "2025-01-18 18:22:04+02:00",
+          "news": 24,
+          "reader": 7
+        }
+    }
+]

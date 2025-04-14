@@ -1,0 +1,58 @@
+[
+    {
+      "model": "news.NewsCategory",
+      "pk": 1,
+      "fields": {
+          "category_name": "Транспорт та інфраструктура",
+          "category_image": "media/images/news_category_images/transport_and_infrastructure.jpg"
+        }
+    },
+    {
+      "model": "news.NewsCategory",
+      "pk": 2,
+      "fields": {
+          "category_name": "Здоров'я та медицина",
+          "category_image": "media/images/news_category_images/health_and_medicine.jpg"
+        }
+    },
+    {
+      "model": "news.NewsCategory",
+      "pk": 3,
+      "fields": {
+          "category_name": "Освіта",
+          "category_image": "media/images/news_category_images/education.jpg"
+        }
+    },
+    {
+      "model": "news.NewsCategory",
+      "pk": 4,
+      "fields": {
+          "category_name": "Підприємництво та стартапи",
+          "category_image": "media/images/news_category_images/enterprise_and_startups.jpg"
+        }
+    },
+    {
+        "model": "news.NewsCategory",
+        "pk": 5,
+        "fields": {
+            "category_name": "Ринок нерухомості",
+            "category_image": "media/images/news_category_images/real_estate_market.jpg"
+          }
+      },
+    {
+        "model": "news.NewsCategory",
+        "pk": 6,
+        "fields": {
+            "category_name": "Історія міста",
+            "category_image": "media/images/news_category_images/city_history.jpg"
+          }
+      },
+    {
+        "model": "news.NewsCategory",
+        "pk": 7,
+        "fields": {
+            "category_name": "Безпека та порядок",
+            "category_image": "media/images/news_category_images/safety_and_order.jpg"
+          }
+      }
+]

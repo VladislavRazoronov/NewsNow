@@ -1,0 +1,302 @@
+[
+    {
+      "model": "news.Reaction",
+      "pk": 1,
+      "fields": {
+          "date_of_creation": "2023-02-15 10:30:45+02:00",
+          "comment": 1,
+          "reader": 4,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 2,
+      "fields": {
+          "date_of_creation": "2023-03-22 14:15:20+02:00",
+          "comment": 2,
+          "reader": 5,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 3,
+      "fields": {
+          "date_of_creation": "2023-04-10 09:00:00+02:00",
+          "comment": 3,
+          "reader": 6,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 4,
+      "fields": {
+          "date_of_creation": "2023-05-05 17:45:30+02:00",
+          "comment": 4,
+          "reader": 7,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 5,
+      "fields": {
+          "date_of_creation": "2023-06-18 12:20:15+02:00",
+          "comment": 5,
+          "reader": 8,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 6,
+      "fields": {
+          "date_of_creation": "2023-07-01 20:10:50+02:00",
+          "comment": 6,
+          "reader": 4,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 7,
+      "fields": {
+          "date_of_creation": "2023-08-12 15:35:25+02:00",
+          "comment": 7,
+          "reader": 5,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 8,
+      "fields": {
+          "date_of_creation": "2023-09-09 11:50:00+02:00",
+          "comment": 8,
+          "reader": 6,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 9,
+      "fields": {
+          "date_of_creation": "2023-10-03 19:15:40+02:00",
+          "comment": 9,
+          "reader": 7,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 10,
+      "fields": {
+          "date_of_creation": "2023-11-20 08:25:10+02:00",
+          "comment": 10,
+          "reader": 8,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 11,
+      "fields": {
+          "date_of_creation": "2023-12-15 16:00:55+02:00",
+          "comment": 11,
+          "reader": 4,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 12,
+      "fields": {
+          "date_of_creation": "2024-01-07 13:40:30+02:00",
+          "comment": 12,
+          "reader": 5,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 13,
+      "fields": {
+          "date_of_creation": "2024-02-14 21:30:00+02:00",
+          "comment": 1,
+          "reader": 6,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 14,
+      "fields": {
+          "date_of_creation": "2024-03-03 10:15:20+02:00",
+          "comment": 2,
+          "reader": 7,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 15,
+      "fields": {
+          "date_of_creation": "2024-04-18 14:50:45+02:00",
+          "comment": 3,
+          "reader": 8,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 16,
+      "fields": {
+          "date_of_creation": "2024-05-10 09:30:15+02:00",
+          "comment": 4,
+          "reader": 4,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 17,
+      "fields": {
+          "date_of_creation": "2024-06-22 17:00:00+02:00",
+          "comment": 5,
+          "reader": 5,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 18,
+      "fields": {
+          "date_of_creation": "2024-07-08 12:45:25+02:00",
+          "comment": 6,
+          "reader": 6,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 19,
+      "fields": {
+          "date_of_creation": "2024-08-15 20:20:50+02:00",
+          "comment": 7,
+          "reader": 7,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 20,
+      "fields": {
+          "date_of_creation": "2024-09-01 15:10:30+02:00",
+          "comment": 8,
+          "reader": 8,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 21,
+      "fields": {
+          "date_of_creation": "2024-10-12 11:35:00+02:00",
+          "comment": 9,
+          "reader": 4,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 22,
+      "fields": {
+          "date_of_creation": "2024-11-05 19:00:45+02:00",
+          "comment": 10,
+          "reader": 5,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 23,
+      "fields": {
+          "date_of_creation": "2024-12-20 08:15:20+02:00",
+          "comment": 11,
+          "reader": 6,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 24,
+      "fields": {
+          "date_of_creation": "2025-01-03 16:50:10+02:00",
+          "comment": 12,
+          "reader": 7,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 25,
+      "fields": {
+          "date_of_creation": "2025-01-15 13:25:55+02:00",
+          "comment": 1,
+          "reader": 8,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 26,
+      "fields": {
+          "date_of_creation": "2025-02-02 10:00:00+02:00",
+          "comment": 2,
+          "reader": 4,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 27,
+      "fields": {
+          "date_of_creation": "2025-02-18 18:30:40+02:00",
+          "comment": 3,
+          "reader": 5,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 28,
+      "fields": {
+          "date_of_creation": "2025-03-05 14:15:25+02:00",
+          "comment": 4,
+          "reader": 6,
+          "like_or_dislike": "Like"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 29,
+      "fields": {
+          "date_of_creation": "2025-03-12 09:40:50+02:00",
+          "comment": 5,
+          "reader": 7,
+          "like_or_dislike": "Dislike"
+      }
+    },
+    {
+      "model": "news.Reaction",
+      "pk": 30,
+      "fields": {
+          "date_of_creation": "2025-03-20 17:00:15+02:00",
+          "comment": 6,
+          "reader": 8,
+          "like_or_dislike": "Like"
+      }
+    }
+]

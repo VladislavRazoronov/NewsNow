@@ -1,0 +1,19 @@
+[
+    {
+      "model": "website_info.WebsiteInformation",
+      "pk": 1,
+      "fields": {
+        "website_name": "NewsNow",
+        "developer_first_name": "Владислав",
+        "developer_last_name": "Разорьонов",
+        "address": "вул. Козельницька 2а Україна, м. Львів, 79026",
+        "google_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.5044391134975!2d24.01818779223985!3d49.817090159231064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ae7f32aa260c7%3A0x193fdc166284c600!2z0LLRg9C70LjRhtGPINCa0L7Qt9C10LvRjNC90LjRhtGM0LrQsCwgMtCwLCDQm9GM0LLRltCyLCDQm9GM0LLRltCy0YHRjNC60LAg0L7QsdC70LDRgdGC0YwsIDc5MDAw!5e1!3m2!1suk!2sua!4v1742495618648!5m2!1suk!2sua",
+        "phone_number": "+380322409940",
+        "email": "info@ucu.edu.ua",
+        "facebook": "https://www.facebook.com/UkrainianCatholicUniversity/?locale=uk_UA",
+        "linkedin": "https://www.linkedin.com/company/ucu-apps/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ua",
+        "instagram": "https://www.instagram.com/ucu_official/",
+        "x": "https://x.com/ucu_university/status/1042025480621318144"
+        }
+    }
+]

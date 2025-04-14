@@ -1,0 +1,146 @@
+[
+    {
+      "model": "news.Comment",
+      "pk": 1,
+      "fields": {
+          "date_of_creation": "2023-01-05 14:21:30+02:00",
+          "date_of_last_update": "2023-01-05 14:21:30+02:00",
+          "news": 1,
+          "reader": 4,
+          "rating": "★★★",
+          "comment_text": "Інформація цікава, але можна було б розширити деталі."
+        }
+    },
+  {
+      "model": "news.Comment",
+      "pk": 2,
+      "fields": {
+          "date_of_creation": "2023-05-10 16:04:35+02:00",
+          "date_of_last_update": "2023-05-10 17:44:15+02:00",
+          "news": 1,
+          "reader": 5,
+          "rating": "★★★★",
+          "comment_text": "Новина виглядає добре, але деякі факти залишаються незрозумілими."
+        }
+    },
+  {
+      "model": "news.Comment",
+      "pk": 3,
+      "fields": {
+          "date_of_creation": "2023-06-02 17:25:57+02:00",
+          "date_of_last_update": "2023-06-02 17:25:57+02:00",
+          "news": 3,
+          "reader": 6,
+          "rating": "★",
+          "comment_text": "Загалом нічого нового, не інформативно"
+        }
+    },
+  {
+      "model": "news.Comment",
+      "pk": 4,
+      "fields": {
+          "date_of_creation": "2023-06-19 16:40:02+02:00",
+          "date_of_last_update": "2023-06-20 11:41:23+02:00",
+          "news": 6,
+          "reader": 7,
+          "rating": "★★★",
+          "comment_text": "Тема актуальна, але хочеться більше конкретних даних."
+        }
+    },
+  {
+      "model": "news.Comment",
+      "pk": 5,
+      "fields": {
+          "date_of_creation": "2023-10-04 15:17:46+02:00",
+          "date_of_last_update": "2023-10-04 15:17:46+02:00",
+          "news": 6,
+          "reader": 4,
+          "rating": "★★★★★",
+          "comment_text": "Достатньо для загального розуміння ситуації."
+        }
+    },
+  {
+      "model": "news.Comment",
+      "pk": 6,
+      "fields": {
+          "date_of_creation": "2024-04-01 13:42:23+02:00",
+          "date_of_last_update": "2024-04-01 13:42:23+02:00",
+          "news": 12,
+          "reader": 4,
+          "rating": "★★★★",
+          "comment_text": "Інформативно, але не вистачає порівнянь чи цифр"
+        }
+    },
+  {
+      "model": "news.Comment",
+      "pk": 7,
+      "fields": {
+          "date_of_creation": "2024-04-01 13:42:23+02:00",
+          "date_of_last_update": "2024-04-01 13:42:23+02:00",
+          "news": 14,
+          "reader": 5,
+          "rating": "★★",
+          "comment_text": "Тематика цікава, але матеріал не повний."
+        }
+    },
+  {
+      "model": "news.Comment",
+      "pk": 8,
+      "fields": {
+          "date_of_creation": "2025-01-10 09:25:09+02:00",
+          "date_of_last_update": "2025-01-09 18:22:04+02:00",
+          "news": 18,
+          "reader": 6,
+          "rating": "★★★★★",
+          "comment_text": "В цілому корисно!"
+        }
+    },
+  {
+      "model": "news.Comment",
+      "pk": 9,
+      "fields": {
+          "date_of_creation": "2024-09-13 14:30:22+02:00",
+          "date_of_last_update": "2024-09-13 14:30:22+02:00",
+          "news": 20,
+          "reader": 7,
+          "rating": "★★★★★",
+          "comment_text": "Добре написано!"
+        }
+    },
+  {
+      "model": "news.Comment",
+      "pk": 10,
+      "fields": {
+          "date_of_creation": "2025-01-30 12:41:38+02:00",
+          "date_of_last_update": "2025-01-30 13:41:32+02:00",
+          "news": 25,
+          "reader": 4,
+          "rating": "★★★★",
+          "comment_text": "Непогано"
+        }
+    },
+  {
+      "model": "news.Comment",
+      "pk": 11,
+      "fields": {
+          "date_of_creation": "2025-02-01 19:01:18+02:00",
+          "date_of_last_update": "2025-02-01 11:28:19+02:00",
+          "news": 26,
+          "reader": 4,
+          "rating": "★★★",
+          "comment_text": "Цікаве повідомлення, але хочеться більше контексту."
+        }
+    },
+  {
+      "model": "news.Comment",
+      "pk": 12,
+      "fields": {
+          "date_of_creation": "2025-02-28 16:30:01+02:00",
+          "date_of_last_update": "2025-02-28 16:30:01+02:00",
+          "news": 27,
+          "reader": 6,
+          "rating": "★★★★",
+          "comment_text": "Важлива інформація, але подана в загальних рисах."
+        }
+    }
+]

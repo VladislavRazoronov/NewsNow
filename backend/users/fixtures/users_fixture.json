@@ -1,0 +1,146 @@
+[
+    {
+      "model": "users.CustomUser",
+      "pk": 1,
+      "fields": {
+              "account_type": "Адміністратор",
+              "username": "admin",
+              "password": "1111",
+              "email": "admin@gmail.com",
+              "phone_number": "-",
+              "first_name": "-",
+              "last_name": "-",
+              "patronymic": "-",
+              "image": "media/images/profile_images/admin.jpg",
+              "is_active": "True",
+              "is_staff": "True",
+              "is_superuser": "True"
+      }
+    },
+    {
+        "model": "users.CustomUser",
+        "pk": 2,
+        "fields": {
+                "account_type": "Журналіст",
+                "username": "AndriyKozak",
+                "password": "1111",
+                "email": "AndriyKozak@gmail.com",
+                "phone_number": "+380987438210",
+                "first_name": "Андрій",
+                "last_name": "Козак",
+                "patronymic": "Іванович",
+                "image": "media/images/profile_images/AndriyKozak.jpg",
+                "is_active": "True",
+                "is_staff": "False",
+                "is_superuser": "False"
+        }
+    },
+    {
+          "model": "users.CustomUser",
+          "pk": 3,
+          "fields": {
+                  "account_type": "Журналіст",
+                  "username": "AnnaTkachuk",
+                  "password": "1111",
+                  "email": "AnnaTkachuk@gmail.com",
+                  "phone_number": "+380969120483",
+                  "first_name": "Анна",
+                  "last_name": "Ткачук",
+                  "patronymic": "Миколаївна",
+                  "image": "media/images/profile_images/AnnaTkachuk.jpg",
+                  "is_active": "True",
+                  "is_staff": "False",
+                  "is_superuser": "False"
+          }
+    },
+    {
+          "model": "users.CustomUser",
+          "pk": 4,
+          "fields": {
+                  "account_type": "Читач",
+                  "username": "NataliaMoroz",
+                  "password": "1111",
+                  "email": "NataliaMoroz@gmail.com",
+                  "phone_number": "+380823913740",
+                  "first_name": "Наталія",
+                  "last_name": "Мороз",
+                  "patronymic": "Василівна",
+                  "image": "media/images/profile_images/NataliaMoroz.jpg",
+                  "is_active": "True",
+                  "is_staff": "False",
+                  "is_superuser": "False"
+          }
+    },
+    {
+          "model": "users.CustomUser",
+          "pk": 5,
+          "fields": {
+                  "account_type": "Читач",
+                  "username": "YuliyaBoyko",
+                  "password": "1111",
+                  "email": "YuliyaBoyko@gmail.com",
+                  "phone_number": "+380963922132",
+                  "first_name": "Юлія",
+                  "last_name": "Бойко",
+                  "patronymic": "Миколаївна",
+                  "image": "media/images/profile_images/YuliyaBoyko.jpg",
+                  "is_active": "True",
+                  "is_staff": "False",
+                  "is_superuser": "False"
+          }
+    },
+    {
+          "model": "users.CustomUser",
+          "pk": 6,
+          "fields": {
+                  "account_type": "Читач",
+                  "username": "OksanaStashenko",
+                  "password": "1111",
+                  "email": "OksanaStashenko@gmail.com",
+                  "phone_number": "+380984290431",
+                  "first_name": "Оксана",
+                  "last_name": "Сташенко",
+                  "patronymic": "Дмитрівна",
+                  "image": "media/images/profile_images/OksanaStashenko.jpg",
+                  "is_active": "True",
+                  "is_staff": "False",
+                  "is_superuser": "False"
+          }
+    },
+    {
+          "model": "users.CustomUser",
+          "pk": 7,
+          "fields": {
+                  "account_type": "Читач",
+                  "username": "IhorFedorenko",
+                  "password": "1111",
+                  "email": "IhorFedorenko@gmail.com",
+                  "phone_number": "+380963812902",
+                  "first_name": "Ігор",
+                  "last_name": "Федоренко",
+                  "patronymic": "Леонідович",
+                  "image": "media/images/profile_images/IhorFedorenko.jpg",
+                  "is_active": "True",
+                  "is_staff": "False",
+                  "is_superuser": "False"
+          }
+    },
+    {
+          "model": "users.CustomUser",
+          "pk": 8,
+          "fields": {
+                  "account_type": "Читач",
+                  "username": "SerhiyKravchenko",
+                  "password": "1111",
+                  "email": "SerhiyKravchenko@gmail.com",
+                  "phone_number": "+380984322377",
+                  "first_name": "Сергій",
+                  "last_name": "Кравченко",
+                  "patronymic": "Олександрович",
+                  "image": "media/images/profile_images/SerhiyKravchenko.jpg",
+                  "is_active": "True",
+                  "is_staff": "False",
+                  "is_superuser": "False"
+          }
+    }
+]
